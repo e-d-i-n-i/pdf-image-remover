@@ -1,7 +1,6 @@
 # PDF Text Color Fixer Tool
 
-![PDF Tool Screenshot](image.png)  
-_(Replace with actual screenshot of your application)_
+![PDF Tool Screenshot](image.png)
 
 ## Introduction
 
